@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jasperserver-remote-services" />
+        <module name="jasperserver-export-tool" />
+        <module name="jasperserver-dto" />
+        <module name="jasperserver-export-tool-package" />
+        <module name="jasperserver-api-engine-impl" />
+        <module name="jasperserver-api-engine" />
+        <module name="jasperserver-war" />
+        <module name="jasperserver-war-jar" />
+        <module name="jasperserver-ftp" />
+        <module name="jasperserver-api-metadata-impl" />
+        <module name="jasperserver-core-util" />
+        <module name="jasperserver-util" />
+        <module name="jasperserver-custom-datasources" />
+        <module name="jasperserver-jax-rs-rest" />
+        <module name="jasperserver-api-integration-test" />
+        <module name="jasperserver-api-common" />
+        <module name="jasperserver-code-coverage" />
+        <module name="jasperserver-repository-hibernate" />
+        <module name="jasperserver-api-externalAuth-impl" />
+        <module name="jasperserver-search" />
+        <module name="jasperserver-api-metadata" />
+        <module name="jasperserver-common-ws" />
+        <module name="jasperserver-api-common-impl" />
+        <module name="jasperserver-api-externalAuth" />
+        <module name="jrs-mongodb-datasource" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

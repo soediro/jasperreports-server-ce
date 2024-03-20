@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/code-coverage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code-coverage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/engine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/externalAuth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/externalAuth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/metadata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/metadata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/engine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/externalAuth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/externalAuth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/metadata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/metadata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-common-ws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-connectors/mongodb-connector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-connectors/mongodb-connector/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-connectors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-connectors/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-core-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-core-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-custom-datasources/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-custom-datasources/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-dto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-export-package/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-export-package/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-export-tool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-export-tool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-ftp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-ftp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-jax-rs-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-jax-rs-rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-remote/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-remote/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-repository-hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-repository-hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-war-jar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-war-jar/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jasperserver-war/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/production-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/production-tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
